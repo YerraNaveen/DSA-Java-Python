@@ -1,0 +1,155 @@
+{
+    "Introduction to Java": [
+        "Course Overview",
+        "Explain Java Features and Object-Oriented Concepts",
+        "Define, Compile and Execute a Java Program",
+        "Practice 1-1: Verify the JDK Installation",
+        "Practice 1-2: Create, Compile, and Execute a Java Application"
+    ],
+    "Primitive Types, Operators, and Flow Control Statements": [
+        "Declare and Initilize Primitives",
+        "Describe Java Operators, Assignment and Arithmetic Operators",
+        "Binary Number Representation and Bitwise Operators",
+        "Equality, Relational and Conditional Operators",
+        "Flow Control using Switch Construct",
+        "Describe Jshell",
+        "Practice 2-1: Manipulate with Primitive Types",
+        "Practice 2-2: Use the if/else and switch Constructs and the Ternary Operator"
+    ],
+    "Text, Date, Time, and Numeric Objects": [
+        "Declare and use String and StringBuilder objects",
+        "Describe primitive wrapper classes",
+        "Handle date and time values",
+        "Describe localization and formatting",
+        "Practice 3-1: Explore String and StringBuilder Objects",
+        "Practice 3-2: Use BigDecimal Class and Format Numeric Values",
+        "Practice 3-3: Use and Format Date and Time Values",
+        "Practice 3-4: Apply Localization and Format Messages"
+    ],
+    "Classes and Objects": [
+        "Define Classes, Objects, Instance Variables and Methods",
+        "Explain Object Instantiation, Local Variables and Constants",
+        "Access Static Context",
+        "Practice 4-1: Create the Product Management Application",
+        "Practice 4-2: Enhance the Product Class",
+        "Practice 4-3: Document Classes"
+    ],
+    "Improved Class Design": [
+        "Overload Methods, Define and Reuse Constructors. Describe Encapsulation and Immutability.",
+        "Use Enumerations",
+        "Explain Java Memory Allocation, Cleanup and Parameter Passing",
+        "Practice 5-1: Create Enumeration to Represent Product Rating",
+        "Practice 5-2: Add Custom Constructors to the Product Class",
+        "Practice 5-3: Make Product Objects Immutable"
+    ],
+    "Implement Inheritance and Use Records": [
+        "Extend classes and reuse code through inheritance",
+        "Instantiate Classes and Access Objects, use the instanceof operator",
+        "Reference Code within Object and Define Subclass Constructors",
+        "Override Methods and Using Polymorphism",
+        "Define Sealed classes, define Abstract and Final Classes and Methods.",
+        "Override Object Class Operations",
+        "Define record Classes and use Factory Methods",
+        "Practice 6-1: Create Food and Drink Classes That Extend Product",
+        "Practice 6-2: Override Methods and Use Polymorphism",
+        "Practice 6-3: Create Factory Methods",
+        "Practice 6-4: Implement Sealed Classes",
+        "Practice 6-5: Explore Java Records"
+    ],
+    "Interfaces and Generics": [
+        "Describe and Implement Java interfaces",
+        "Use Generics. Describe Commonly Used Java Interfaces and Composition Pattern",
+        "Practice 7-1: Design the Rateable Interface",
+        "Practice 7-2: Process Products Review and Rating"
+    ],
+    "Arrays and Loops": [
+        "Declare, Create, Initialize and use Arrays",
+        "Use a Loop constructs",
+        "Practice 8-1: Allow Multiple Reviews for a Product"
+    ],
+    "Collections": [
+        "Introduce Java Collection API Interfaces and Implementation classes",
+        "Use List, Set, Deque, and Map collections",
+        "Iterate Through Collections and Use Collections Class",
+        "Access Collections Concurrently",
+        "Practice 9-1: Organize Products and Reviews into a HashMap",
+        "Practice 9-2: Implement Review Sort and Product Search Features"
+    ],
+    "Nested Classes and Lambda Expressions": [
+        "Describe Nested and Inner Classes",
+        "Work with Lambda Expressions",
+        "Practice 10-1: Refactor ProductManager to Use a Nested Class",
+        "Practice 10-2: Produce Customized Product Reports"
+    ],
+    "Java Streams API": [
+        "Describe Java Streams API",
+        "Process Stream Pipelines",
+        "Aggregate Stream Data",
+        "Describe Parallel Stream Processing and Use Spliterator",
+        "Practice 11-1: Modify Product Manager to Use Streams",
+        "Practice 11-2: Add Discount Per Rating Calculation"
+    ],
+    "Exception Handling, Logging, and Debugging": [
+        "Use Java Logging API",
+        "Describe Java Exceptions Handling",
+        "Use Debugger and Assertions, Understand Exception execution flow.",
+        "Practice 12-1: Use Exception Handling to Fix Logical Errors",
+        "Practice 12-2: Add Text Parsing Operations"
+    ],
+    "Java IO API": [
+        "Describe Java Input-Output API",
+        "Read and Write Basic Binary and Character Data",
+        "Use Standard Input and Output",
+        "Understand Serialization Deserialization",
+        "Work with FileSystems",
+        "Practice 13-1: Print Product Report to a File",
+        "Practice 13-2: Bulk-Load Data from Files",
+        "Practice 13-3: Implement Memory Swap Mechanism"
+    ],
+    "Java Concurrency and Multithreading": [
+        "Describe Concurrency and Multithreading",
+        "Thread Life Cycle and Properties",
+        "Manage and Implement Executor Service",
+        "Locking Problems and Ensure Thread Safety",
+        "Practice 14-1: Redesign ProductManager as a Singleton",
+        "Practice 14-2: Ensure ProductManager Memory Safety",
+        "Practice 14-3: Simulate Concurrent Callers"
+    ],
+    "Modules and Deployment": [
+        "Compile, Package, and Execute Nonmodular Applications. Describe Java Modules",
+        "Create Module Dependencie. Define and Use Module Servicess.",
+        "Compile, Package, and Execute Modularized Applications and Create Custom Runtime Images",
+        "Practice 15-1: Convert ProductManagement Application into a Module",
+        "Practice 15-2: Separate Application into Several Modules"
+    ],
+    "Annotations": [
+        "Design and Apply Annotations",
+        "Identify Frequently Used Java Annotations"
+    ],
+    "Java Database Connectivity": [
+        "Manage Database Connections",
+        "Manage Transactions"
+    ],
+    "Java Security": [
+        "Understand Security Requirements",
+        "Learn Best Practices to Protect Your Code"
+    ],
+    "Advanced Generics": [
+        "Describe Generics Erasure and Use Generics"
+    ],
+    "Java Applications on Oracle Cloud": [
+        "Describe Cloud Application Design principles",
+        "Deploy Java SE Application to Oracle Cloud"
+    ],
+    "Miscellaneous Java Topics": [
+        "Describe Design Patterns, Java IO, File Watch Service"
+    ],
+    "Java SE 17: New Features": [
+        "Introduction to the production, preview, and incubator features",
+        "Evolution of new features into production solutions",
+        "Classification of changes",
+        "Removed features",
+        "Version : Java SE 17",
+        "Learning Goals : Learn What's New in Java"
+    ]
+}
